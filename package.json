@@ -1,0 +1,22 @@
+{
+  "name": "landing-page-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/tishe-makinde/Landing-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tishe-makinde/Landing-Page/issues"
+  },
+  "homepage": "https://github.com/tishe-makinde/Landing-Page#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
